@@ -1,0 +1,56 @@
+https://twitter.com/stevesyfuhs/status/1297957799079510018
+https://www.alteredsecurity.com/post/fantastic-windows-logon-types-and-where-to-find-credentials-in-them#viewer-f74bo
+https://techcommunity.microsoft.com/t5/itops-talk-blog/deep-dive-logging-on-to-windows/ba-p/2420705
+
+
+Bibliografia:
+
+https://www.alteredsecurity.com/post/fantastic-windows-logon-types-and-where-to-find-credentials-in-them#viewer-5t3rc
+https://twitter.com/SteveSyfuhs/status/1297957799079510018
+https://twitter.com/ashokkrishna99/status/1298353881370341376/photo/1
+https://docs.microsoft.com/en-us/windows-server/security/windows-authentication/windows-logon-scenarios
+https://docs.microsoft.com/en-us/windows-server/security/windows-authentication/windows-authentication-concepts
+https://docs.microsoft.com/en-us/windows-server/security/windows-authentication/credentials-processes-in-windows-authentication#BKMK_LSA
+https://docs.microsoft.com/en-us/windows-server/security/windows-authentication/windows-authentication-architecture
+https://techcommunity.microsoft.com/t5/itops-talk-blog/deep-dive-logging-on-to-windows/ba-p/2420705
+https://techcommunity.microsoft.com/t5/itops-talk-blog/ops108-windows-authentication-internals-in-a-hybrid-world/ba-p/2109557?WT.mc_id=modinfra-30798-socuff
+https://docs.microsoft.com/pt-br/windows-server/security/windows-authentication/credentials-processes-in-windows-authentication?WT.mc_id=modinfra-30798-socuff
+https://sansorg.egnyte.com/dl/T272Ae73AQ/?
+https://www.ultimatewindowssecurity.com/securitylog/book/default.aspx
+https://www.ultimatewindowssecurity.com/securitylog/book/page.aspx?spid=chapter3
+https://www.ultimatewindowssecurity.com/securitylog/book/page.aspx?spid=chapter4
+https://www.ultimatewindowssecurity.com/securitylog/book/page.aspx?spid=chapter5
+https://www.ultimatewindowssecurity.com/securitylog/book/page.aspx?spid=chapter6
+https://securitybytes.io/blue-team-fundamentals-part-two-windows-processes-759fe15965e2
+https://www.threathunting.se/tag/windows-process/
+https://www.threathunting.se/2020/04/01/winlogon-exe-one-of-the-most-important-processes-for-threat-hunting/
+https://www.threathunting.se/2020/04/06/wininit-exe-the-most-important-windows-processes-for-threat-hunting/
+https://www.sans.org/posters/hunt-evil/ | https://sansorg.egnyte.com/dl/ZkAyckjFTI
+https://scorpiosoftware.net/2021/07/03/processes-threads-and-windows/amp/
+https://scorpiosoftware.net/2021/01/10/parent-process-vs-creator-process/
+https://www.isssource.com/wp-content/uploads/2012/02/ISSSource-Application_Whitelisting_Using_SRP.pdf
+https://docs.microsoft.com/pt-br/windows-server/security/windows-authentication/windows-authentication-architecture
+https://ldapwiki.com/wiki/Windows%20Client%20Authentication%20Architecture
+https://alparslanakyildiz.medium.com/fundamental-windows-processes-6341696cf4f0#:~:text=WINLOGON.,-EXE&text=EXE%20is%20responsible%20for%20user's,Security%20Account%20Manager%20aka%20SAM.
+
+
+Diving into Windows Logon Process:
+https://www.youtube.com/watch?v=aCVdGUjP72Q&ab_channel=ThePubForumE2EVCVirtualizationConference 
+
+Windows session:
+https://techcommunity.microsoft.com/t5/ask-the-performance-team/sessions-desktops-and-windows-stations/ba-p/372473
+Definicao borges:
+Acho nem precisa muito de um material, pois quando o usuário realiza login, todos os processos e objetos de sistema (objetos desktop, windows station e todos as janelas) relacionados à este login definem exatamente a sessão.
+
+https://www.2brightsparks.com/resources/articles/understanding-windows-sessions.pdf
+https://docs.microsoft.com/pt-br/windows-hardware/drivers/debugger/-session
+https://docs.microsoft.com/en-us/windows/win32/winrm/session
+https://docs.microsoft.com/en-us/windows/win32/devnotes/session
+https://docs.microsoft.com/pt-br/windows-hardware/drivers/debugger/changing-contexts#session-context
+https://docs.microsoft.com/en-us/windows/win32/termserv/terminal-services-sessions
+https://docs.microsoft.com/en-us/windows/win32/termserv/child-sessions
+https://everything.explained.today/Session_Manager_Subsystem/
+https://docs.microsoft.com/en-us/previous-versions/windows/hardware/design/dn653293(v=vs.85)?redirectedfrom=MSDN
+https://docs.microsoft.com/en-us/previous-versions/windows/hardware/design/dn653293(v=vs.85)?redirectedfrom=MSDN
+
+https://www.sans.org/white-papers/34132/
